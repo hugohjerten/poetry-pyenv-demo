@@ -1,5 +1,5 @@
 # Get started with pyenv & poetry. Saviours in the python chaos!
-![python chaos](python_environment.png)
+![python chaos](images/python_environment.png)
 
 This file will give a quick walkthrough and demo of how you can setup and use pyenv and poetry, to make your python development life a little easier.
 
@@ -20,7 +20,7 @@ It allows you to install and run multiple python installations, on the same mach
 `pyenv` manages the different versions for you, so that you will avoid the chaos illustrated in the above picture.
 Don’t ever again install a python version any other way!
 
-![pyenv-pyramid](pyenv-pyramid.png)
+![pyenv-pyramid](images/pyenv-pyramid.png)
 
 The above image illustrates the hierarchy that pyenv uses to decide which installed python version to use.
 From [realpython](https://realpython.com/intro-to-pyenv/).
@@ -211,7 +211,7 @@ Above I have just provided you with the bare minimum to get you started.
 For more details, please see the documentation for `pyenv` and `poetry`!
 Your python life will be that much easier once you start using them both!
 
-![Drake likes pyenv + poetry](drake_pyenv_plus_poetry.jpg)
+![Drake likes pyenv + poetry](images/drake_pyenv_plus_poetry.jpg)
 
 ## Extra
 
